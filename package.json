@@ -1,0 +1,22 @@
+{
+  "name": "reueldockers",
+  "version": "1.0.0",
+  "description": "This is my Eportfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReuelSagrado20/reueldockers.git"
+  },
+  "author": "Reuel Sagrado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReuelSagrado20/reueldockers/issues"
+  },
+  "homepage": "https://github.com/ReuelSagrado20/reueldockers#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
